@@ -3,7 +3,7 @@ string autore;
 string isbn;
 string kindle;
 string CopertinaFlessibile;
-float ValMedia = 0;
+double ValMedia = 0.0;
 
 
 
